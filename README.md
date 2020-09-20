@@ -1,4 +1,4 @@
-# wgpu-rs binaries compiled on Ubuntu 16.04
+# [wgpu-rs](https://github.com/gfx-rs/wgpu-rs) binaries compiled on Ubuntu 16.04
 
 ![](https://raw.github.com/procedural/wgpu_rs_binaries_ubuntu/master/why.png)
 
