@@ -27,3 +27,5 @@ Screenshots:
 ![](https://raw.github.com/procedural/wgpu_rs_binaries_ubuntu/master/shadow.png)
 
 Download size: ~130 MB.
+
+![](https://raw.github.com/procedural/wgpu_rs_binaries_ubuntu/master/libwebgpuso.png)
