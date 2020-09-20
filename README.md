@@ -28,4 +28,6 @@ Screenshots:
 
 Download size: ~130 MB.
 
-![](https://raw.github.com/procedural/wgpu_rs_binaries_ubuntu/master/libwebgpuso.png)
+For `libwgpu_native.so` and `wgpu.h`, get them here:
+
+https://github.com/gfx-rs/wgpu-native/releases
