@@ -1,0 +1,1 @@
+{"rustc":7210524046684111384,"features":"[]","target":12194511724169106039,"profile":4339006351771724982,"path":14158830280775603798,"deps":[[4117749705314174326,"bitflags",false,17334605926115780891]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/wgpu-types-8181bb8a156914e9/dep-lib-wgpu-types"}}],"rustflags":[],"metadata":16493635410606928635,"config":0}

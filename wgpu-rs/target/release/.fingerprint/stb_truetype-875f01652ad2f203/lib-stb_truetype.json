@@ -1,0 +1,1 @@
+{"rustc":7210524046684111384,"features":"[\"std\"]","target":4113424157255142379,"profile":4339006351771724982,"path":7375318794945459932,"deps":[[9144014140450427062,"byteorder",false,1426457564400055294]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/stb_truetype-875f01652ad2f203/dep-lib-stb_truetype"}}],"rustflags":[],"metadata":6239935327164251962,"config":0}

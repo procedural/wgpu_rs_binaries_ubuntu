@@ -1,0 +1,11 @@
+/home/constantine/Desktop/wgpu-rs/target/release/deps/libthiserror_impl-40effd93498aa414.so: /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/lib.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/ast.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/attr.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/expand.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/fmt.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/prop.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/valid.rs
+
+/home/constantine/Desktop/wgpu-rs/target/release/deps/thiserror_impl-40effd93498aa414.d: /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/lib.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/ast.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/attr.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/expand.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/fmt.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/prop.rs /home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/valid.rs
+
+/home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/lib.rs:
+/home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/ast.rs:
+/home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/attr.rs:
+/home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/expand.rs:
+/home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/fmt.rs:
+/home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/prop.rs:
+/home/constantine/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.20/src/valid.rs:
